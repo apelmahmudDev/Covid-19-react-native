@@ -1,5 +1,8 @@
-// import IconSvg from "./IconSvg";
-// import LogoSvg from "./LogoSvg";
-// import HeartSvg from "./HeartSvg";
+import CleanHandsSvg from "./CleanHandsSvg";
+import DistanceSvg from "./DistanceSvg";
+import TestSvg from "./TestSvg";
+import FaceMaskSvg from "./FaceMaskSvg";
+import CountrySvg from "./CountrySvg";
+import MenuSvg from "./MenuSvg";
 
-// export { IconSvg, LogoSvg, HeartSvg };
+export { CleanHandsSvg, DistanceSvg, FaceMaskSvg, CountrySvg, MenuSvg };
