@@ -5,4 +5,11 @@ import FaceMaskSvg from "./FaceMaskSvg";
 import CountrySvg from "./CountrySvg";
 import MenuSvg from "./MenuSvg";
 
-export { CleanHandsSvg, DistanceSvg, FaceMaskSvg, CountrySvg, MenuSvg };
+export {
+	CleanHandsSvg,
+	DistanceSvg,
+	FaceMaskSvg,
+	CountrySvg,
+	MenuSvg,
+	TestSvg,
+};
