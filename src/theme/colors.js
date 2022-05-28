@@ -1,12 +1,14 @@
 export const colors = {
 	bg: {
-		primary: "#A259FF",
-		light: "#F6F5F5",
+		primary: "#473F97",
+		light: "#E5E5E5",
 	},
 	text: {
-		primary: "#2D0C57",
-		secondary: "#9586A8",
 		white: "#FFFFFF",
+		dark: "#0D1333",
 	},
-	primaryBtn: "#0BCE83",
+	btn: {
+		primary: "#0BCE83",
+		secondary: "#4D79FF",
+	},
 };
